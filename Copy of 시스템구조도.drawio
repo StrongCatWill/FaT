@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T10:50:48.222Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jg6XDIvRf-EPps3NgADR" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T11:14:43.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5ieVwE3ufBGWd9AWaciR" version="21.3.8" type="github" pages="7">
   <diagram name="Page-1" id="LQpM0y-y3X-_QGi2JBVG">
-    <mxGraphModel dx="1851" dy="1744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2363" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,9 +18,6 @@
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-2" value="사용자 &lt;br&gt;Hardware Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="82.72" y="30" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f1BiPF42v0RQ563zsVqb-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;FaT Simulator System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="-10" width="900" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-7" value="콘텐츠 저장소" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="470" y="1290" width="249" height="29" as="geometry" />
@@ -186,6 +183,21 @@
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-22" value="FaT Simulator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379.5" y="376" width="110.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IPHrBE73JnOo0el6v3iR-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="328" y="493" width="62" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="IPHrBE73JnOo0el6v3iR-19" value="" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="IPHrBE73JnOo0el6v3iR-18">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPHrBE73JnOo0el6v3iR-20" value="FaT&lt;br&gt;Simulator&lt;br&gt;Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="IPHrBE73JnOo0el6v3iR-18">
+          <mxGeometry x="1" y="77" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPHrBE73JnOo0el6v3iR-21" value="" style="shape=datastore;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="419" y="493" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPHrBE73JnOo0el6v3iR-22" value="FaT&lt;br&gt;Simulator&lt;br&gt;Application" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="419" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
