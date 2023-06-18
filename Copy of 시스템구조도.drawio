@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T11:43:08.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7lhdBic1L7Z7uIfyHhEi" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T11:52:52.913Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="B0wo1DocCfpNubhHiO7f" version="21.3.8" type="github" pages="7">
   <diagram name="Page-1" id="LQpM0y-y3X-_QGi2JBVG">
     <mxGraphModel dx="1544" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="E7xnLWKExB6z1no43Dy7-3" value="Sound API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="507" y="187" width="249" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E7xnLWKExB6z1no43Dy7-8" value="(in Device)FaT 시뮬레이터 애플리케이션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="E7xnLWKExB6z1no43Dy7-8" value="(in Device)FaT Simulator Application" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="246" y="260" width="251" height="29" as="geometry" />
         </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-9" value="Rendering Engine" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
