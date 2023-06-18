@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T11:14:43.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5ieVwE3ufBGWd9AWaciR" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T11:15:44.507Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="A9nuz8smwLh-zYqKAZuC" version="21.3.8" type="github" pages="7">
   <diagram name="Page-1" id="LQpM0y-y3X-_QGi2JBVG">
     <mxGraphModel dx="2363" dy="863" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,12 +19,6 @@
         <mxCell id="f1BiPF42v0RQ563zsVqb-2" value="사용자 &lt;br&gt;Hardware Module" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="82.72" y="30" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="f1BiPF42v0RQ563zsVqb-7" value="콘텐츠 저장소" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="470" y="1290" width="249" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="f1BiPF42v0RQ563zsVqb-13" value="최상위버전&lt;br&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="569.5" y="1330" width="50" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-14" value="Mobile Device Terminal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="506" y="87" width="250" height="30" as="geometry" />
         </mxCell>
@@ -37,12 +31,6 @@
         <mxCell id="E7xnLWKExB6z1no43Dy7-3" value="Sound API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="507" y="187" width="249" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="E7xnLWKExB6z1no43Dy7-4" value="내부정보" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="479" y="1330" width="50" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="E7xnLWKExB6z1no43Dy7-6" value="최상위버전_전단계" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="659" y="1330" width="50" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-8" value="(in Device)FaT 시뮬레이터 애플리케이션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="246" y="260" width="251" height="29" as="geometry" />
         </mxCell>
@@ -52,29 +40,8 @@
         <mxCell id="E7xnLWKExB6z1no43Dy7-10" value="Play Cash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="246" y="87" width="251" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-2" value="피드백&lt;br&gt;정보" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="179" y="1180" width="60" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-3" value="운영자" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-73" y="430" width="63" height="63" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-4" value="앱스토어" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="1130" width="249" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-5" value="배포된&lt;br&gt;실행파일" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="34.5" y="1180" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-6" value="배포용 클라우드" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-10" y="1274" width="249" height="29" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-7" value="피드백&lt;br&gt;정보" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-3" y="1330" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-8" value="버전관리된&lt;br&gt;실행파일" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="94.5" y="1330" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-9" value="배포할 &lt;br&gt;실행파일" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="179" y="1330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQna6XxML9XRyEu_gCtE-1" value="선택한 연령층, 스테이지, 난이도 정보" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="247" y="127" width="250" height="20" as="geometry" />
