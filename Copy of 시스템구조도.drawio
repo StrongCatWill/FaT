@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T10:21:19.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pJRYSs8McPDtNCO4Ie7y" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T10:25:43.126Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hFHQJ4zks4rKIyipjIfT" version="21.3.8" type="github" pages="7">
   <diagram name="Page-1" id="LQpM0y-y3X-_QGi2JBVG">
-    <mxGraphModel dx="1260" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fillColor=#eeeeee;" vertex="1" parent="1">
+          <mxGeometry x="40" y="87" width="120" height="283" as="geometry" />
+        </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-2" value="사용자" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
         </mxCell>
@@ -43,14 +49,11 @@
         <mxCell id="E7xnLWKExB6z1no43Dy7-10" value="Play Cash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="660" y="77" width="251" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-1" value="개발자(운영자)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="390" width="120" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-2" value="피드백&lt;br&gt;정보" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="179" y="1180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-3" value="운영자" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="67" y="197" width="63" height="63" as="geometry" />
+          <mxGeometry x="68.5" y="410" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-4" value="앱스토어" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-3" y="1130" width="249" height="29" as="geometry" />
@@ -83,13 +86,13 @@
           <mxGeometry x="920" y="207" width="249" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-4" value="Android OS 스마트폰" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
-          <mxGeometry x="471" y="660" width="70" height="70" as="geometry" />
+          <mxGeometry x="225" y="180" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-3" value="iOS 스마트폰" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="486" y="560" width="40" height="63" as="geometry" />
+          <mxGeometry x="240" y="80" width="40" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-1" value="Android OS 태블릿" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tablet_pc.svg;" vertex="1" parent="1">
-          <mxGeometry x="489.91" y="760" width="36.5" height="50" as="geometry" />
+          <mxGeometry x="243.91000000000003" y="280" width="36.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-20" value="Sound API Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="320" width="250" height="20" as="geometry" />
@@ -103,11 +106,44 @@
         <mxCell id="Vz45u7Fonc5N-65RXlbb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="650" y="70" width="530" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="Vz45u7Fonc5N-65RXlbb-24" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="90" width="40" height="60" as="geometry" />
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-24" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;strokeWidth=3;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="80" y="177" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-25" value="고객" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="60" height="30" as="geometry" />
+          <mxGeometry x="71.5" y="237" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-28" value="접속 매체" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-29" value="가상 모듈" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="242.16" y="410" width="40" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-30" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=1.004;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vz45u7Fonc5N-65RXlbb-31">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="130" y="120" as="sourcePoint" />
+            <mxPoint x="230" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-33" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=1.004;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="160" y="218" as="sourcePoint" />
+            <mxPoint x="230" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-34" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=1.004;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="160" y="307" as="sourcePoint" />
+            <mxPoint x="230" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-35" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=3;exitX=1.004;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="160" y="447" as="sourcePoint" />
+            <mxPoint x="230" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-37" value="저" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
