@@ -1,74 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-06-18T10:10:40.645Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7-yIOhTOY2pAn0F3JFR-" version="21.3.8" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-06-18T10:21:19.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pJRYSs8McPDtNCO4Ie7y" version="21.3.8" type="github" pages="7">
   <diagram name="Page-1" id="LQpM0y-y3X-_QGi2JBVG">
-    <mxGraphModel dx="1765" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1260" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Vz45u7Fonc5N-65RXlbb-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="300" y="820" width="530" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="Vz45u7Fonc5N-65RXlbb-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="150" width="550" height="340" as="geometry" />
-        </mxCell>
-        <mxCell id="Vz45u7Fonc5N-65RXlbb-8" value="" style="group" vertex="1" connectable="0" parent="Vz45u7Fonc5N-65RXlbb-7">
-          <mxGeometry y="10" width="550" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="Vz45u7Fonc5N-65RXlbb-6" value="Mobile Module" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Vz45u7Fonc5N-65RXlbb-8">
-          <mxGeometry x="137.5" width="247.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-2" value="사용자" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="80" y="760" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f1BiPF42v0RQ563zsVqb-6" value="FaT 시뮬레이터 시스템" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="300" y="770" width="527" height="30" as="geometry" />
+        <mxCell id="f1BiPF42v0RQ563zsVqb-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;FaT Simulator System&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="34.5" y="-10" width="795.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-7" value="콘텐츠 저장소" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="511" y="1180" width="249" height="29" as="geometry" />
+          <mxGeometry x="470" y="1290" width="249" height="29" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-13" value="최상위버전&lt;br&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="610.5" y="1220" width="50" height="49" as="geometry" />
+          <mxGeometry x="569.5" y="1330" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-14" value="Mobile Device Terminal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="570" y="837" width="250" height="30" as="geometry" />
+          <mxGeometry x="920" y="77" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="toP1aLSbvlmDQtSUp-Qs-1" value="Graphic API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="571" y="907" width="249" height="20" as="geometry" />
+          <mxGeometry x="921" y="147" width="249" height="20" as="geometry" />
         </mxCell>
         <mxCell id="toP1aLSbvlmDQtSUp-Qs-2" value="OS Config File" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="571" y="877" width="249" height="20" as="geometry" />
+          <mxGeometry x="921" y="117" width="249" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-3" value="Sound API" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="571" y="937" width="249" height="20" as="geometry" />
+          <mxGeometry x="921" y="177" width="249" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-4" value="내부정보" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1220" width="50" height="49" as="geometry" />
+          <mxGeometry x="479" y="1330" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-6" value="최상위버전_전단계" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1220" width="50" height="49" as="geometry" />
+          <mxGeometry x="659" y="1330" width="50" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="E7xnLWKExB6z1no43Dy7-8" value="FaT 시뮬레이터 애플리케이션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="309" y="1051" width="249" height="29" as="geometry" />
+        <mxCell id="E7xnLWKExB6z1no43Dy7-8" value="(in Device)FaT 시뮬레이터 애플리케이션" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="660" y="250" width="251" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="E7xnLWKExB6z1no43Dy7-9" value="첫 번째 플레이 데이터" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="309" y="1091" width="251" height="20" as="geometry" />
+        <mxCell id="E7xnLWKExB6z1no43Dy7-9" value="Graphic API Config" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="659" y="291" width="251" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E7xnLWKExB6z1no43Dy7-10" value="Play Cash" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="310" y="837" width="251" height="29" as="geometry" />
+          <mxGeometry x="660" y="77" width="251" height="29" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-1" value="개발자(운영자)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="71.5" y="584" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-2" value="피드백&lt;br&gt;정보" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="179" y="1180" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WnqY7mnbP_ce95q3HVKC-3" value="개발" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="100" y="641" width="63" height="63" as="geometry" />
+        <mxCell id="WnqY7mnbP_ce95q3HVKC-3" value="운영자" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="67" y="197" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-4" value="앱스토어" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-3" y="1130" width="249" height="29" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-5" value="배포된&lt;br&gt;실행파일" style="shape=datastore;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="91.5" y="1180" width="60" height="60" as="geometry" />
+          <mxGeometry x="34.5" y="1180" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WnqY7mnbP_ce95q3HVKC-6" value="배포용 클라우드" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-10" y="1274" width="249" height="29" as="geometry" />
@@ -83,25 +71,43 @@
           <mxGeometry x="179" y="1330" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vQna6XxML9XRyEu_gCtE-1" value="선택한 연령층, 스테이지, 난이도 정보" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311" y="877" width="250" height="20" as="geometry" />
+          <mxGeometry x="661" y="117" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vQna6XxML9XRyEu_gCtE-2" value="플레이 로그(필터링 적용)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311" y="907" width="250" height="20" as="geometry" />
+          <mxGeometry x="661" y="147" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vQna6XxML9XRyEu_gCtE-3" value="플레이 캐시" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="311" y="940" width="250" height="20" as="geometry" />
+          <mxGeometry x="661" y="180" width="250" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-17" value="Mobile Device Storage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="967" width="249" height="20" as="geometry" />
+          <mxGeometry x="920" y="207" width="249" height="20" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-4" value="Android OS 스마트폰" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.mobile_client;" parent="1" vertex="1">
-          <mxGeometry x="102.84" y="900" width="70" height="70" as="geometry" />
+          <mxGeometry x="471" y="660" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f1BiPF42v0RQ563zsVqb-3" value="iOS 스마트폰" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.mobile_client;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="117.84" y="800" width="40" height="63" as="geometry" />
+          <mxGeometry x="486" y="560" width="40" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Vz45u7Fonc5N-65RXlbb-1" value="Android OS 태블릿" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/tablet_pc.svg;" vertex="1" parent="1">
-          <mxGeometry x="121.75" y="1000" width="36.5" height="50" as="geometry" />
+          <mxGeometry x="489.91" y="760" width="36.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-20" value="Sound API Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="320" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-21" value="Touch API Config" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="659.5" y="350" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-22" value="FaT Simulator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="659" y="379" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="530" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-24" value="" style="shape=actor;whiteSpace=wrap;html=1;rounded=0;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vz45u7Fonc5N-65RXlbb-25" value="고객" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
