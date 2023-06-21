@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T13:13:01.185Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pHcpwqEaiF54JHYGAe51" version="21.5.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-06-21T13:35:27.058Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fX-7FHgNSv_QZAoVDKv6" version="21.5.0" type="github" pages="6">
   <diagram name="ClassDiagram_WholeSystem_1.0.0" id="b1ACDXltd7J6oD_BnMsB">
     <mxGraphModel dx="1026" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,7 +572,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S71Oq5C4Bawbh5AqSAQk" name="클래스 다이어그램">
-    <mxGraphModel dx="879" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -803,7 +803,7 @@
         <mxCell id="m-niC33rZH4rMKya0REV-74" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.494;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;strokeWidth=3;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=block;endFill=0;" edge="1" parent="1" source="m-niC33rZH4rMKya0REV-70" target="m-niC33rZH4rMKya0REV-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m-niC33rZH4rMKya0REV-70" value="&amp;lt;&amp;lt;FirstJudgement&amp;gt;&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="m-niC33rZH4rMKya0REV-70" value="&amp;lt;&amp;lt;NPCJudgement&amp;gt;&amp;gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1399" y="550" width="160" height="130" as="geometry">
             <mxRectangle x="200" y="380" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
