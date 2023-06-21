@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-21T12:09:45.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DQo3jY3I3eyBwRLaASv6" version="21.5.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-06-21T12:13:20.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e8idXEIGhzCqW7i1yqME" version="21.5.0" type="github" pages="5">
   <diagram name="ClassDiagram_WholeSystem_1.0.0" id="b1ACDXltd7J6oD_BnMsB">
     <mxGraphModel dx="1026" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -572,7 +572,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S71Oq5C4Bawbh5AqSAQk" name="클래스 다이어그램">
-    <mxGraphModel dx="2022" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2131" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -659,6 +659,20 @@
         </mxCell>
         <mxCell id="m-niC33rZH4rMKya0REV-33" value="+ setMissTiming()&lt;br&gt;+ setGoodTiming()&lt;br&gt;+ setGreatTiming()&lt;br&gt;+ setPerfectTiming()&lt;br&gt;+ getMissTiming()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getGoodTiming()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getGreatTiming()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getPerfectTiming()&lt;br&gt;+ setMissCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ setGoodCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ setGreatCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ setPerfectCriteria()&lt;br&gt;+ getMissCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getGoodCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getGreatCriteria()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getPerfectCriteria()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m-niC33rZH4rMKya0REV-30">
           <mxGeometry y="158" width="160" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="m-niC33rZH4rMKya0REV-38" value="VentilJudgementResult" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="160" height="150" as="geometry">
+            <mxRectangle x="200" y="380" width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m-niC33rZH4rMKya0REV-39" value="- easyJudgement&lt;br&gt;- normalJudgement&lt;br&gt;- HardJudgement&lt;br&gt;- Heart" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m-niC33rZH4rMKya0REV-38">
+          <mxGeometry y="26" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="m-niC33rZH4rMKya0REV-40" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="m-niC33rZH4rMKya0REV-38">
+          <mxGeometry y="90" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="m-niC33rZH4rMKya0REV-41" value="+ GetJudgement()&lt;br&gt;+ SetJudgement()&lt;br&gt;+ SetHeart()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m-niC33rZH4rMKya0REV-38">
+          <mxGeometry y="98" width="160" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
